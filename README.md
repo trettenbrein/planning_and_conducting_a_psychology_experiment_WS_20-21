@@ -1,8 +1,8 @@
-# planning_and_conducting_a_psychology_experiment_WS_20-21
+# Planning and Conducting a Psychology Experiment (WS 20-21)
 
-Practical sessions on programming in Python for the course "Planning and Conducting a Psychology Experiment" co-taught at University of Leipzig in the winter term 2020-21.
+Notebooks for two practical sessions on programming in Python for the course ["Planning and Conducting a Psychology Experiment"](https://tinyurl.com/exp2021) co-taught at University of Leipzig in the winter term 2020-21.
 
-Run all examples interactively in your browser without having to install anything on your machine using binder:
+All examples can be run interactively in the browser without having to install anything on the local machine:
 
 ## Session 5 
 
